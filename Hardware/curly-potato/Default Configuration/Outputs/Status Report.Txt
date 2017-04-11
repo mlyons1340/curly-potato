@@ -1,0 +1,51 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 9:47:56 PM On 4/8/2017
+
+Output: ODB
+Type  : ODB
+From  : Variant [[No Variations]] of PCB Document [PCB1.CSPcbDoc]
+   Generated File[matrix]
+   Generated File[profile]
+   Generated File[stephdr]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[components]
+   Generated File[features]
+   Generated File[components]
+   Generated File[data]
+   Generated File[netlist]
+   Generated File[PCB1.REP]
+
+
+Files Generated   : 38
+Documents Printed : 0
+
+Finished Output Generation At 9:47:58 PM On 4/8/2017

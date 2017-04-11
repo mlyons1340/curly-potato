@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=BLUE_OUT Pin=Q3-2
+Added Pin To Net: NetName=BLUE_OUT Pin=Q3-2
+Added Net: Name=BLUE_OUT
+Added Pin To Net: NetName=GREEN_OUT Pin=Q1-2
+Added Pin To Net: NetName=GREEN_OUT Pin=Q1-2
+Added Net: Name=GREEN_OUT
+Added Pin To Net: NetName=RED_OUT Pin=Q2-2
+Added Pin To Net: NetName=RED_OUT Pin=Q2-2
+Added Net: Name=RED_OUT
